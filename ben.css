@@ -1,0 +1,130 @@
+h1{
+    background-color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 200px;
+}
+h2{
+    text-align: center;
+    color:#e8d5d5;
+    text-size-adjust: 300px;
+
+}
+body{
+    background-image: url("/2.jfif");
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+.grid-container{ 
+    display: inline-grid;
+    
+    margin:1px;
+    margin-left: 350px;
+    margin-top: 1px;
+    
+    padding: 1px;
+    padding: 1px;
+    
+    grid-template-columns:200px 200px 200px 200px 200px;
+    grid-template-rows:100px;
+    grid-gap:1px;
+    
+    
+}
+
+
+
+.item1{
+
+border:10px solid;
+padding:100px;
+background-image: url("/10.png");
+background-size: cover;
+    
+}
+.item2{
+
+border:10px solid;
+padding:100px;
+background-image: url("/11.jfif");
+background-size: cover;
+   
+}
+
+.item3{
+border:10px solid; 
+padding:100px;
+background-image: url("/2.jfif");
+background-size: cover;
+}
+.item4{
+border:10px solid;
+padding:100px;
+background-image: url("/3.jfif");
+background-size: cover; 
+}
+.item5{
+border:10px solid;
+padding:100px;
+background-image: url("/4.jfif");
+background-size: cover;
+}
+.grid1-container{ 
+    display: inline-grid;
+    
+    margin: 2px;
+    margin-left: 180px;
+
+    
+    padding: 1px;
+    padding: auto;
+    
+    grid-template-columns:200px 200px 200px 200px 200px 200px;
+    grid-template-rows:100px;
+    grid-gap:10px;
+}
+.item6{
+
+border:10px solid;
+padding:100px;
+background-image: url("/5.jfif" );
+background-size: cover;
+}
+.item7{
+
+    border:10px solid;
+    padding:100px;
+    background-image: url("/6.jfif");
+    background-size: cover;
+}
+.item8{
+
+    border:10px solid;
+    padding:100px;
+    background-image: url("/8.jfif");
+    background-size: cover;
+}
+.item9{
+
+    border:10px solid;
+    padding:100px;
+    background-image: url("/9.jpg");
+    background-size: cover;
+}
+.item10{
+
+    border:10px solid;
+    padding:100px;
+    background-image: url("/10.png");
+    background-size: cover;
+}
+.item11{
+
+    border:10px solid;
+    padding:100px;
+    background-image: url("/3.jfif");
+    background-size: cover;
+}
+
